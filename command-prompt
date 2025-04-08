@@ -1,0 +1,7 @@
+attrib -r "C:\Users\user\Source\Repos\youtube-channel-creator\*.*" /s
+xcopy "C:\Users\user\Downloads\youtube-channel-creator (1)\*" "C:\Users\user\Source\Repos\youtube-channel-creator" /E /H /C /I
+
+
+
+
+
